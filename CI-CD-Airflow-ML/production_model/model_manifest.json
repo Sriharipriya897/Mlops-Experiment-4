@@ -1,0 +1,15 @@
+{
+  "status": "DEPLOYED",
+  "deployment_timestamp": "2026-09-26T07:29:26Z",
+  "version": "v1.0.0",
+  "deployed_files": [
+    "model.joblib",
+    "scaler.joblib",
+    "metrics.json",
+    "training_metadata.json"
+  ],
+  "metrics": {
+    "accuracy": 0.9333,
+    "passed_quality_gate": true
+  }
+}

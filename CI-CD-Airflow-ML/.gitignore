@@ -1,0 +1,16 @@
+# Python & Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+airflow_venv/
+.pytest_cache/
+
+# Airflow local runtime DB & logs
+airflow.db
+airflow.cfg
+logs/
+webserver_config.py
